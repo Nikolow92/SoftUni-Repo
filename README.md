@@ -1,1 +1,1 @@
-# SoftUni-Repo
+# A Demo-repo for Software Techologies Course @ SoftUni 
